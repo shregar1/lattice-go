@@ -1,0 +1,5 @@
+{
+  "serviceName": "LatticeBackend",
+  "environment": "development",
+  "port": 3000
+}
